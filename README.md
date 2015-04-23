@@ -11,4 +11,6 @@ of course the leds has 325ohm resistors on them too.
 
 pretty simple
 
+t800 model can be downloaded at http://www.thingiverse.com/thing:18338
+
 enjoy the vide at https://www.youtube.com/watch?v=-L2iMvKKetk
