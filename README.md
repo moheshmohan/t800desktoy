@@ -13,4 +13,4 @@ pretty simple
 
 t800 model can be downloaded at http://www.thingiverse.com/thing:18338
 
-enjoy the vide at https://www.youtube.com/watch?v=-L2iMvKKetk
+Read the complete how to make here - http://www.h4hacks.com/2015/07/now-that-terminator-genisys-is-out-how.html
